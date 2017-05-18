@@ -1,0 +1,4 @@
+C:\Users\UNH-HCI\Desktop\HOLOLENS_PROJECT_2016\Paveen\Project01\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\UNH-HCI\Desktop\HOLOLENS_PROJECT_2016\Paveen\Project01\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\UNH-HCI\Desktop\HOLOLENS_PROJECT_2016\Paveen\Project01\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\UNH-HCI\Desktop\HOLOLENS_PROJECT_2016\Paveen\Project01\App\Project01\Project01.csproj;x86
